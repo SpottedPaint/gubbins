@@ -1,6 +1,7 @@
 #!/bin/sh
 # Uploads from local folder to server online 
-# you could put the things to --exclude in separate text file if they get to lengthy
+#
+# NOTE: you could put the things to --exclude in separate text file if they get to lengthy
 #
 application_name="XXXXXX";
 deploy_server="XXXXXX";
