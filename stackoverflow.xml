@@ -1,0 +1,8 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Stack Overflow</ShortName>
+<Description>Stack Overflow</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16" >http://sstatic.net/stackoverflow/img/favicon.ico</Image>
+<Url type="text/html" method="GET" template="https://stackoverflow.com/search?q={searchTerms}"></Url>
+<SearchForm>https://stackoverflow.com</SearchForm>
+</SearchPlugin>
